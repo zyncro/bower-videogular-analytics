@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "main": "./vg-analytics.js",
   "dependencies": {
-    "zyncro-bower-videogular": "1.0.2",
+    "zyncro-bower-videogular": "1.0.3",
     "angulartics": "0.17.2"
   }
 }
